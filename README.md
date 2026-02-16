@@ -1,4 +1,3 @@
-This is a solid foundation for your project. Since you're a Java student, I’ve structured this expanded README with the "short and sweet" TL;DR style you prefer, while incorporating the specific details about the automatic dataset download and the `.docx` documentation.
 
 ---
 
@@ -59,4 +58,3 @@ pip install tensorflow numpy pandas matplotlib opencv-python
 
 ```
 
-**Would you like me to write a Java utility class that can call this Python model using a ProcessBuilder or a REST API?**
